@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mybeer-project",
+  "private_key_id": "8e1bbcd5496e4b57cae8279873104ce87bd6d858",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCzqjMCWyiTciZ4\nDLu5m0RRVzy2Upm/+lsi2USMhc9sWv3KebtA5GgIhqpRqhU7xwtDinMyMciK/fqJ\n4GXpoJtlMGTdpAtWALE/Rd+acFtRPIOolOaqw/RhjiylJwFDdjGsB+GbT609rFtb\nA5TNXGcOd/oetEhbqF+yVvnCDbkpWB/hS5EWRu1i2tCbaVE4drcPnzPZPzNGaUFZ\n/dx2SqPnpPBkNdpCErc5aShaqpfcoDr2LYmi1TOUK2qzdwuFEoccgqbN/iRAXdty\n0ZUuUKmQKFK1nFAMxKEGntsp+ZpP/kp/ilccmd+rM7wHMpZC9iRV+9z4bYZJqhRx\nQsmbkIbVAgMBAAECggEADrZamaV1W9L2gNDUyTeEZKohd/H+UnuMiFIFDFd4y4Vi\npaNKSN9rVXy8PcERHrqx8Bn096CerM3CJ8A5wuPlVb1Hb+RFuV6Hz91HmOdSfa3Y\nP4R8pHHfdThQl5rraObTh87YFAEg9/KWmIwL3LU7CzLv8cu5kSfnOOdpFGb4nqtM\nQzzZTM1T+XNgHZdbiDkR7PyxugoWvturZxBc5dibwkOCDmmx5pxAPCDD1d5iOOQR\nmPNrS9CKeILQ10BGHQjYUfXaLjjtGK391VM8KHHnB7cNsSGM3vfTiqNDhHhdAr1v\nHtbK6jH6e0nyUzp87mTleAOctG9VgJkWxXJ+PFssgQKBgQDcYDApGeoZ7BPYFCQ9\nQCChOLgIivRyVrONOc+nB15LxI4vnihd5bdzbtup7cjjLWyJJw99fYn51U65pSp8\nik8M765AOzSHShXTRYvlzxCTau3pNlZdZwncm4aUqXEwol0LXRS92Oy/4jWhteSO\nY7TKtnQi+P4mWeCpbj9DGIzQSQKBgQDQtUWMisU5adVVeBgOtgikZtZwgIv47MvL\nBPhGkG74iGEGhH2J1HZqIB0scXt+BVZuFl4FDwpuza8GL0FtNTNKFcP8CSF7DIWr\nimYde7WmIL1+SU+VYaRCbK2jcCENPjV6lwPbfbPluB4U2vckYzT0Qs9PBCPJRAAE\n31YIcWSaLQKBgQCWFIu38gYUEUqSZWUosXuHUHFEoB1JoPI2w6A/SC1XvEx48WTc\nTY1Z961xVJby4ASCgy9xbwWAN1yd4XXFywt669/nrmpfmHy0nTBhGVtYigHsSS0X\n/wwgSWql459KV8i17HYrtIfHRe7wakd1EUIWq5r8FkY/KAZwXLyInTeIwQKBgGF1\nNEvjhSNBO2BU2w8Li8+RQfN442PS13svD+yLh3ZA4OXVOnYBI2Z9JoJZX6xCO9De\nWvsLwfhpzaAasveXDyM6NLFdZif6efTXhMWhvfocccAl5abA2J4394FJW/W+JeTf\n3epBsZ7Esi9U7HEubkzdYcbpDPjv6v5bd+YrZSnlAoGAZaxluHtMoAb1DDVXar3e\nIvYy8Ok8LJIS5CGW2JR+W3qAarcFYFsYOwhc2m1xwsl7CkN8PE46GnA9iM7AvU3G\nYo4gbdogFGYHe+gsoBT9Ul9MuUFhvRJqExrD/9iufLE6cY6Q8+306oRDNoRNTISq\nQbcByNhOttXy5tMntYmmysg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mybeer-lineman-code@mybeer-project.iam.gserviceaccount.com",
+  "client_id": "116059484146132861739",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mybeer-lineman-code%40mybeer-project.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

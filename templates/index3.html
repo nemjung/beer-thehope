@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form with Image Upload</title>
+</head>
+<body>
+    <h2>Submit Form with Image Upload</h2>
+    
+    <form action="/submit" method="post" enctype="multipart/form-data">
+        <label for="textbox">Name:</label>
+        <input type="text" id="name" name="name" required>
+        <label for="textbox">Surname:</label>
+        <input type="text" id="surname" name="surname" required>
+        <label for="textbox">Tel:</label>
+        <input type="text" id="phone" name="phone" required>
+        <label for="textbox">Age:</label>
+        <input type="text" id="age" name="age" required>
+        <label for="textbox">Merchant:</label>
+        <input type="text" id="merchant" name="merchant" required>
+
+        <label for="image">Upload Image:</label>
+        <input type="file" id="image" name="image" accept="image/*" required><br>
+
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
